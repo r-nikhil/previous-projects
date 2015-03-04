@@ -6,3 +6,4 @@ Frameworks, Technologies used in these<br>
 2)Yii Framework<br>
 3)Some python libraries I dont remember.<br>
 4)nodejs and a few packages<br>
+5)angularjs<br>
