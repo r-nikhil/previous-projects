@@ -1,6 +1,6 @@
 # previous-projects
 Backup of all my previous projects and scripts<br>
-Since I am too lazy to document each and everyone of them separately, I will just write  a breif outline.<br>
+Since I am too lazy to document each and everyone of them separately, I will just write  a brief outline.<br>
 Frameworks, Technologies used in these<br>
 1)WebRTC<br>
 2)Yii Framework<br>
